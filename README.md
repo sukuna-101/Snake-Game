@@ -1,4 +1,4 @@
-# Snake - 100% Python
+
 
 Jogo Snake completo em um único arquivo Python usando Pygame.
 
